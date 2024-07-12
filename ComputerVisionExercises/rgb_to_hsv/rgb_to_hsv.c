@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include "../vc.h"  
+
+int main() {
+    IVC *src, *dst;
+
+    // Carrega a imagem de origem em escala de cinza
+    src = vc_read_image("HSVTestImage01.ppm");
+    if (src == NULL) {
+        fprintf(stderr, "Erro ao carregar a imagem de origem!\n");
+        return -1;
+    }
+
+    // Cria uma imagem de destino com as mesmas propriedades da imagem de origem
+    dst = vc_image_new(src->width, src->height, src->channels, src->levels);
+    if (dst == NULL) {
+        fprintf(stderr, "Erro ao criar a imagem de destino!\n");
+        vc_image_free(src);
+        return -1;
+    }
+
+    // Processa a imagem de origem para mostrar o histograma na imagem de destino
+    if (vc_rgb_to_hsv(src, dst) == 0) {
+        fprintf(stderr, "Erro ao processar o histograma!\n");
+        vc_image_free(src);
+        vc_image_free(dst);
+        return -1;
+    }
+
+    // Guarda a imagem de destino
+    if (vc_write_image("hsv_converted.pgm", dst) != 1) {
+        fprintf(stderr, "Erro ao salvar a imagem de destino!\n");
+        vc_image_free(src);
+        vc_image_free(dst);
+        return -1;
+    }
+
+  
+    vc_image_free(src);
+    vc_image_free(dst);
+
+    return 0;
+}

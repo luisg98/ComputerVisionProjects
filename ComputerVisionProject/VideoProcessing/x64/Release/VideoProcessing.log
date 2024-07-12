@@ -1,0 +1,416 @@
+﻿  Origem.cpp
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(150,24): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(151,25): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(152,23): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(168,28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,85): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,85): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,85): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,85): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,85): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,85): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,85): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,85): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,85): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,75): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,75): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,75): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,75): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,75): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,75): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,75): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,75): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,75): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,65): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,65): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,65): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,65): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,65): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,65): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,65): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,65): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(279,65): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,103): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,103): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,103): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,103): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,103): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,103): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,103): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,103): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,103): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,93): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,93): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,93): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,93): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,93): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,93): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,93): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,93): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,93): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,83): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,83): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,83): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,83): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,83): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,83): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,83): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,83): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(280,83): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,103): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,103): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,103): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,103): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,103): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,103): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,103): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,103): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,103): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,93): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,93): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,93): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,93): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,93): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,93): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,93): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,93): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,93): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,83): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,83): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,83): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,83): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,83): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,83): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,83): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,83): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(284,83): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,85): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,85): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,85): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,85): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,85): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,85): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,85): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,85): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,85): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,75): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,75): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,75): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,75): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,75): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,75): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,75): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,75): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,75): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,65): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,65): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,65): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,65): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,65): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,65): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,65): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,65): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(288,65): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,102): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,102): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,102): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,102): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,102): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,102): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,102): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,102): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,102): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,92): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,92): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,92): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,92): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,92): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,92): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,92): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,92): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,92): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,82): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,82): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,82): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,82): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,82): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,82): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,82): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,82): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(289,82): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,102): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,102): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,102): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,102): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,102): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,102): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,102): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,102): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,102): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,92): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,92): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,92): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,92): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,92): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,92): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,92): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,92): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,92): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,82): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,82): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,82): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,82): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,82): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,82): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,82): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,82): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(293,82): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,100): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,100): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,100): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,100): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,100): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,100): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,100): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,100): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,100): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,90): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,90): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,90): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,90): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,90): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,90): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,90): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,90): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,90): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,80): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,80): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,80): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,80): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,80): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,80): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,80): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,80): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(317,80): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,114): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,114): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,114): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,114): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,114): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,104): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,104): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,104): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,104): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,104): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,94): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,94): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,94): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,94): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,94): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(347,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,114): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,114): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,114): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,114): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,114): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,104): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,104): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,104): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,104): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,104): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,94): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,94): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,94): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,94): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,94): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(349,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,114): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,114): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,114): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,114): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,114): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,104): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,104): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,104): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,104): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,104): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,94): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,94): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,94): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,94): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,94): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(351,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,114): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,114): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,114): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,114): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,114): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,104): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,104): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,104): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,104): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,104): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,94): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,94): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,94): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,94): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,94): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(353,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,114): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,114): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,114): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,114): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,114): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,104): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,104): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,104): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,104): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,104): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,94): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,94): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,94): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,94): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,94): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(355,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,114): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,114): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,114): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,114): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,114): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,104): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,104): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,104): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,104): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,104): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,94): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,94): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,94): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,94): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,94): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(357,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,114): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,114): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,114): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,114): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,114): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,104): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,104): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,104): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,104): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,104): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,94): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,94): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,94): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,94): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,94): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(359,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,114): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,114): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,114): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,114): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,114): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,114): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,114): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,104): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,104): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,104): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,104): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,104): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,104): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,104): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,94): warning C4244: 'argumento': conversão de 'const _Tp' para '_Tp', possível perda de dados
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,94): warning C4244:         with
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,94): warning C4244:             _Tp=double
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,94): warning C4244:         ]
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,94): warning C4244:         and
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,94): warning C4244:         [
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,94): warning C4244:             _Tp=uchar
+C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\Origem.cpp(361,94): warning C4244:         ]
+  Gerando código
+  2 of 362 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  VideoProcessing.vcxproj -> C:\Users\luisg\Desktop\IPCA\2º Ano\2º Semestre\Visão Por Computador\ComputerVision-Project\x64\Release\VideoProcessing.exe
